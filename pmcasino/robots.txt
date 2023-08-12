@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pm-casino-1.com/sitemap.xml
